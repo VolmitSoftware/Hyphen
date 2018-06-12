@@ -1,0 +1,58 @@
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] CCEmuRedux Launcher v1.2 started on windows...
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] Current time is Jun 12, 2018 12:56:08 AM
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] Using data directory: src
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] System.getProperty('os.name') == 'Windows 10'
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] System.getProperty('os.version') == '10.0'
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] System.getProperty('os.arch') == 'amd64'
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] System.getProperty('java.version') == '1.8.0_144'
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] System.getProperty('java.vendor') == 'Oracle Corporation'
+2018-06-12 00:56:08 [INFO] [CCEmuRedux Launcher] System.getProperty('sun.arch.data.model') == '64'
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Download job 'CCEmuRedux & Libraries' started (16 threads, 11 files)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\jackson-core.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\jackson-annotations.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\guava.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Making directory src\bin
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Making directory src\bin
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Making directory src\bin
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\jackson-databind.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\computercraft.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\gdx-backend-lwjgl.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\gdx.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\gdx-platform.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\lwjgl-platform.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\ccemuredux.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:09 [INFO] [CCEmuRedux Launcher] Attempting to download src\bin\lwjgl.jar for job 'CCEmuRedux & Libraries'... (try 0)
+2018-06-12 00:56:10 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\jackson-annotations.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:10 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\computercraft.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and checksum matched
+2018-06-12 00:56:10 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\gdx-backend-lwjgl.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:10 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\jackson-core.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:10 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\ccemuredux.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\lwjgl-platform.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\jackson-databind.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\lwjgl.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\gdx-platform.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\guava.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] Finished downloading src\bin\gdx.jar for job 'CCEmuRedux & Libraries': Downloaded successfully and etag matched
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] 'CCEmuRedux & Libraries' finished successfully (took 0:00:01.975)
+2018-06-12 00:56:11 [FINE] [CCEmuRedux Launcher] Running C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe -Xmx512M -cp C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\jackson-core.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\jackson-annotations.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\jackson-databind.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\guava.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\computercraft.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\gdx.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\gdx-backend-lwjgl.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\gdx-platform.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\lwjgl.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\lwjgl-platform.jar;C:\Users\cyberpwn\Documents\development\workspace\Hyphen\src\bin\ccemuredux.jar com.xtansia.ccemu.desktop.DesktopLauncher
+2018-06-12 00:56:11 [INFO] [CCEmuRedux Launcher] Emulator> Native loading is disabled.
+2018-06-12 00:56:12 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Changing to screen: MainMenu [MainMenuScreen]
+2018-06-12 00:56:12 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Showing new screen [MainMenuScreen]
+2018-06-12 00:56:12 [INFO] [CCEmuRedux Launcher] Emulator> TickManager: Starting tick thread
+2018-06-12 00:56:12 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Resizing new screen to (960, 540)
+2018-06-12 00:56:13 [INFO] [CCEmuRedux Launcher] Emulator> MainMenu: Click 'Local Session'
+2018-06-12 00:56:13 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Changing to screen: SelectSession [SelectSessionScreen]
+2018-06-12 00:56:13 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Hiding current screen [MainMenuScreen]
+2018-06-12 00:56:13 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Showing new screen [SelectSessionScreen]
+2018-06-12 00:56:13 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Resizing new screen to (960, 540)
+2018-06-12 00:56:14 [INFO] [CCEmuRedux Launcher] Emulator> SessionSelection: Click 'Create New'
+2018-06-12 00:56:22 [INFO] [CCEmuRedux Launcher] Emulator> SessionSelection: Click 'Load Selected'
+2018-06-12 00:56:22 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Changing to screen: Session [SessionScreen]
+2018-06-12 00:56:22 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Hiding current screen [SelectSessionScreen]
+2018-06-12 00:56:22 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Showing new screen [SessionScreen]
+2018-06-12 00:56:22 [INFO] [CCEmuRedux Launcher] Emulator> SetScreen: Resizing new screen to (960, 540)
+2018-06-12 00:56:24 [INFO] [CCEmuRedux Launcher] Emulator> SessionScreen: New
+2018-06-12 00:57:23 [INFO] [CCEmuRedux Launcher] Emulator> CCEmulator: Unloading Session
+2018-06-12 00:57:23 [INFO] [CCEmuRedux Launcher] Emulator> CCEmulator: Disposing Resources
+2018-06-12 00:57:23 [INFO] [CCEmuRedux Launcher] Emulator> TickManager: Ticking interrupted
+2018-06-12 00:57:23 [INFO] [CCEmuRedux Launcher] Emulator process finished!
